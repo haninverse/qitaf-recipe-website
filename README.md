@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍓 Qitaf | قطاف
+#  Qitaf | قطاف
 ### Recipe Website — UI/UX Design
 
 **Personal Project · Figma · Arabic RTL Design**
